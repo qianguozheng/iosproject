@@ -1,23 +1,25 @@
 //
 //  XYZAppDelegate.m
-//  XYZTableViewController
+//  TouchEvent
 //
-//  Created by weeds on 14-10-7.
+//  Created by weeds on 14-10-19.
 //  Copyright (c) 2014年 ___FULLUSERNAME___. All rights reserved.
 //
 
 #import "XYZAppDelegate.h"
+#import "RootViewController.h"
 
 @implementation XYZAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-//    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-//    // Override point for customization after application launch.
-//    self.window.backgroundColor = [UIColor whiteColor];
-//    [self.window makeKeyAndVisible];
+    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+    // Override point for customization after application launch.
+    self.window.backgroundColor = [UIColor whiteColor];
+    [self.window makeKeyAndVisible];
     
-    //[NSThread sleepForTimeInterval:5.0];
+    RootViewController *rootVC = [[RootViewController alloc] init];
+    self.window.rootViewController = rootVC;
     return YES;
 }
 

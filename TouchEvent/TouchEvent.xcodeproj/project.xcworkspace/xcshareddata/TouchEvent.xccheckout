@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D9B2BF33-839F-4CD3-9AA6-4A91DF295ED3</string>
+	<string>1DF33676-8A5D-4DAF-B73F-09FBCD61435D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>XYZTableViewController</string>
+	<string>TouchEvent</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D3B28D66-2625-40B7-8770-450F791800CA</key>
+		<key>569CC527C0B222E90E1B235317B7DE58B0878009</key>
 		<string>https://github.com/qianguozheng/iosproject</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>XYZTableViewController/XYZTableViewController.xcodeproj/project.xcworkspace</string>
+	<string>TouchEvent/TouchEvent.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D3B28D66-2625-40B7-8770-450F791800CA</key>
+		<key>569CC527C0B222E90E1B235317B7DE58B0878009</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/qianguozheng/iosproject</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D3B28D66-2625-40B7-8770-450F791800CA</string>
+	<string>569CC527C0B222E90E1B235317B7DE58B0878009</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D3B28D66-2625-40B7-8770-450F791800CA</string>
+			<string>569CC527C0B222E90E1B235317B7DE58B0878009</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iosproject</string>
 		</dict>
