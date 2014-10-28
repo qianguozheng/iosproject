@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0DC08670-5021-46FF-8F83-DDFB18878941</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DrawLine</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>569CC527C0B222E90E1B235317B7DE58B0878009</key>
+		<string>https://github.com/qianguozheng/iosproject</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DrawLine/DrawLine.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>569CC527C0B222E90E1B235317B7DE58B0878009</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qianguozheng/iosproject</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>569CC527C0B222E90E1B235317B7DE58B0878009</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>569CC527C0B222E90E1B235317B7DE58B0878009</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iosproject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
