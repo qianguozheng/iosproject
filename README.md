@@ -14,3 +14,7 @@ My hobby about iOS developer, which makes me fun and happy.
  
 ####  ToDoList	2014/10/8
  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/qianguozheng/iosproject/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
